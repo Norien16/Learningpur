@@ -1,3 +1,6 @@
 hey there!
 
-Im  beautiful
+
+=======
+My name is Aman...
+>>>>>>> 3af7470cc085d68a51c108a28f7a13017e257d99
